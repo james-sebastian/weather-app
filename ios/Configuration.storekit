@@ -1,0 +1,49 @@
+{
+  "identifier" : "FCF36FD7",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "0EB8136A",
+      "localizations" : [
+
+      ],
+      "name" : "subscriptions_group",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "299000",
+          "familyShareable" : true,
+          "groupNumber" : 1,
+          "internalID" : "EA39F817",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "mw_300_1y_1w0",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Annual Rp 300K, 1 week free",
+          "subscriptionGroupID" : "0EB8136A",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
