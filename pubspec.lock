@@ -105,9 +105,9 @@ packages:
   purchases_flutter:
     dependency: "direct main"
     description:
-      path: "../.."
-      relative: true
-    source: path
+      name: purchases_flutter
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "3.4.1"
   sky_engine:
     dependency: transitive
